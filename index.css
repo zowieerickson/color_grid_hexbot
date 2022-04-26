@@ -5,4 +5,12 @@
 body {
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.color {
+    width: 20%;
+    height: 20%;
+    text-align: center;
 }
